@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Hi%20there,%20I'm%20Rizaldi%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Hi%20there,%20I'm%20Rizaldi&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+%E2%98%95+into+YOLO+models+and+5G+cores;Currently%3A+GPA+3.81%2F4.00+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+into+YOLO+models+and+5G+cores;Currently%3A+GPA+3.81%2F4.00" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/4.00) who somehow ended up juggling four different rabbit holes at once: **AI/ML**, **networking**, **data analytics**, and **cybersecurity**. Instead of picking one, I decided to just... do all of them.
 
-- 🔭 Currently Vice Coordinator of Lab Assistants @ Cyber Physical System Lab, Telkom University
-- 🌱 Taught a 5-week Computer Vision bootcamp to 80+ students (first-ever paid program in my lab's history)
-- ⚡ Built everything from 5G core simulations to LSTM time-series models to VoIP quality analyzers
-- 🎨 Also lead creative/branding teams on the side, because apparently one skill tree wasn't enough
-- 💬 Ask me about: YOLO, Open5GS/UERANSIM, GNS3 routing labs, or how to explain deep learning to someone who's never coded
+- Currently Vice Coordinator of Lab Assistants @ Cyber Physical System Lab, Telkom University
+- Taught a 5-week Computer Vision bootcamp to 80+ students (first-ever paid program in my lab's history)
+- Built everything from 5G core simulations to LSTM time-series models to VoIP quality analyzers
+- Also lead creative/branding teams on the side, because apparently one skill tree wasn't enough
+- Ask me about: YOLO, Open5GS/UERANSIM, GNS3 routing labs, or how to explain deep learning to someone who's never coded
 
 <div align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="coding meme"/>
@@ -26,7 +26,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **AI / ML**
 <p>
@@ -67,7 +67,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flyingsundaman&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
@@ -78,11 +78,11 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsundaman&layout=compact&hide_border=true" height="165"/>
 </div>
 
-> ⚠️ *Stats cards above only populate once repos are public — keep pushing!*
+> Stats cards above only populate once repos are public — keep pushing!
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Domain | What it does |
 |---|---|---|
@@ -94,18 +94,18 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 | **Time Series Prediction (LSTM)** | AI / ML | Built an LSTM model for time-series forecasting |
 | **ML Model Comparison Study** | Data Analytics | Compared regression, classification & clustering algorithms across multiple datasets |
 
-<sub>💡 *Pin your favorite repos above to your GitHub profile so they show up as cards here!*</sub>
+<sub>Pin your favorite repos above to your GitHub profile so they show up as cards here!</sub>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥉 3rd Place — FIKSI Nasional, Kemendikbudristek (100+ teams)
-- 🥈 2nd Place & Favorite Award — EWBC Business Plan (International, Unair)
-- 🌟 Favorite Award — Bandung Techno Park Poster Competition
-- 🎓 Participant — LIDM-PDP 2024 & PKM-PI 2024 (Kemendikbudristek)
+- 3rd Place — FIKSI Nasional, Kemendikbudristek (100+ teams)
+- 2nd Place & Favorite Award — EWBC Business Plan (International, Unair)
+- Favorite Award — Bandung Techno Park Poster Competition
+- Participant — LIDM-PDP 2024 & PKM-PI 2024 (Kemendikbudristek)
 
-## 📜 Certifications
+## Certifications
 
 - Cybersecurity Fundamentals — IBM SkillsBuild
 - Data Analytics Essentials — Cisco Networking Academy
@@ -116,7 +116,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -127,7 +127,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 </div>
 
 <div align="center">
-<sub>📍 Cimahi, Indonesia &nbsp;|&nbsp; Open to freelance & project-based collaboration</sub>
+<sub>Cimahi, Indonesia &nbsp;|&nbsp; Open to freelance & project-based collaboration</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
