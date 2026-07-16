@@ -73,10 +73,14 @@ I'm a Telecommunications Engineering student at **Telkom University** who someho
 ## GitHub Stats
 
 <div align="center">
-
-[![View GitHub Profile](https://img.shields.io/badge/View%20Full%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flyingsundaman)
-
+<img src="https://github-readme-stats.vercel.app/api?username=flyingsundaman&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsundaman&hide_border=true" height="165"/>
 </div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsundaman&layout=compact&hide_border=true" height="165"/>
+</div>
+
 
 ---
 
