@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Hi%20there,%20I'm%20Rizaldi&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Hi%20there,%20I'm%20Rizaldi&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1F3864&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+into+YOLO+models+and+5G+cores;Currently%3A+GPA+3.81%2F4.00" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+into+YOLO+models+and+5G+cores" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/4.00) who somehow ended up juggling four different rabbit holes at once: **AI/ML**, **networking**, **data analytics**, and **cybersecurity**. Instead of picking one, I decided to just... do all of them.
+I'm a Telecommunications Engineering student at **Telkom University** who somehow ended up juggling four different rabbit holes at once: **AI/ML**, **networking**, **data analytics**, and **cybersecurity**. Instead of picking one, I decided to just... do all of them.
 
 - Currently Vice Coordinator of Lab Assistants @ Cyber Physical System Lab, Telkom University
 - Taught a 5-week Computer Vision bootcamp to 80+ students (first-ever paid program in my lab's history)
@@ -19,7 +19,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 - Ask me about: YOLO, Open5GS/UERANSIM, GNS3 routing labs, or how to explain deep learning to someone who's never coded
 
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380" alt="coding meme"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="coding vibe"/>
 <br/>
 <sub><i>me, every time a model finally converges</i></sub>
 </div>
@@ -31,8 +31,10 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 **AI / ML**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 </p>
 
@@ -49,6 +51,7 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 **Cybersecurity & Systems**
@@ -71,14 +74,8 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=flyingsundaman&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flyingsundaman&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flyingsundaman&layout=compact&hide_border=true" height="165"/>
 </div>
-
-> Stats cards above only populate once repos are public — keep pushing!
 
 ---
 
@@ -93,8 +90,6 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 | **Sentiment Analysis (NLP)** | AI / ML | Scraped and classified social media sentiment around a real public case |
 | **Time Series Prediction (LSTM)** | AI / ML | Built an LSTM model for time-series forecasting |
 | **ML Model Comparison Study** | Data Analytics | Compared regression, classification & clustering algorithms across multiple datasets |
-
-<sub>Pin your favorite repos above to your GitHub profile so they show up as cards here!</sub>
 
 ---
 
@@ -130,4 +125,4 @@ I'm a Telecommunications Engineering student at **Telkom University** (GPA 3.81/
 <sub>Cimahi, Indonesia &nbsp;|&nbsp; Open to freelance & project-based collaboration</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" width="100%"/>
