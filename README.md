@@ -19,7 +19,7 @@ I'm a Telecommunications Engineering student at **Telkom University** who someho
 - Ask me about: YOLO, Open5GS/UERANSIM, GNS3 routing labs, or how to explain deep learning to someone who's never coded
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380" alt="coding vibe"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDk4Mm90eHV6bGx6b2YxajkwM2M1b2Y0M2VoMW56MW1rNTJiaDdjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9w9Z2ZOxcbs1a/giphy.gif" width="380" alt="coding vibe"/>
 <br/>
 <sub><i>me, every time a model finally converges</i></sub>
 </div>
