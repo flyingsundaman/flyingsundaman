@@ -13,7 +13,7 @@
 I'm a Telecommunications Engineering student at **Telkom University** who somehow ended up juggling four different rabbit holes at once: **AI/ML**, **networking**, **data analytics**, and **cybersecurity**. Instead of picking one, I decided to just... do all of them.
 
 - Currently Vice Coordinator of Lab Assistants @ Cyber Physical System Lab, Telkom University
-- Taught a 5-week Computer Vision bootcamp to 80+ students (first-ever paid program in my lab's history)
+- Taught a 5-week Computer Vision bootcamp
 - Built everything from 5G core simulations to LSTM time-series models to VoIP quality analyzers
 - Also lead creative/branding teams on the side, because apparently one skill tree wasn't enough
 - Ask me about: YOLO, Open5GS/UERANSIM, GNS3 routing labs, or how to explain deep learning to someone who's never coded
