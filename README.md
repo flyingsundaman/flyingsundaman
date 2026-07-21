@@ -101,7 +101,6 @@ I'm a Telecommunications Engineering student at **Telkom University** who someho
 
 - 3rd Place — FIKSI Nasional, Kemendikbudristek (100+ teams)
 - 2nd Place & Favorite Award — EWBC Business Plan (International, Unair)
-- Favorite Award — Bandung Techno Park Poster Competition
 - Participant — LIDM-PDP 2024 & PKM-PI 2024 (Kemendikbudristek)
 
 ## Certifications
