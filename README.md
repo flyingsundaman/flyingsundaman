@@ -96,7 +96,6 @@ I'm a Telecommunications Engineering student at **Telkom University** who someho
 | **ML Model Comparison Study** | Data Analytics | Compared regression, classification & clustering algorithms across multiple datasets |
 
 ---
-
 ## Achievements
 
 - 3rd Place — FIKSI Nasional, Kemendikbudristek (100+ teams)
