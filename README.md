@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Hi%20there,%20I'm%20Rizaldi&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+into+YOLO+models+and+5G+cores" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Telecommunications+Engineering+Student;AI+%2F+ML+%E2%80%A2+Networking+%E2%80%A2+Data+%E2%80%A2+Security;Turning+coffee+into+AI+Project" alt="Typing SVG" />
 
 </div>
 
