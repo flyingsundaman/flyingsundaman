@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## About Me !
 
 I'm a Telecommunications Engineering student at **Telkom University** who somehow ended up juggling four different rabbit holes at once: **AI/ML**, **networking**, **data analytics**, and **cybersecurity**. Instead of picking one, I decided to just... do all of them.
 
